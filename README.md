@@ -1,11 +1,6 @@
-# Docus Default Starter
+# UX Playbooks for TBC Prodcut teams
 
-> A beautiful, minimal starter for creating documentation with Docus
-
-This is the default Docus starter template that provides everything you need to build beautiful documentation sites with Markdown and Vue components.
-
-> [!TIP]
-> If you're looking for i18n support, check out the [i18n starter](https://github.com/nuxt-themes/docus/tree/main/.starters/i18n).
+Non‑financial, non‑regulated internal product playbook system for maintaining user experience standards and design, code, and writing guidelines used by all TBC agile product teams.
 
 ## ✨ Features
 
