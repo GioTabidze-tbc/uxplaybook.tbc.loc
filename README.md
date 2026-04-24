@@ -1,4 +1,4 @@
-# UX Playbooks for TBC Prodcut teams
+# UX Playbook for TBC Prodcut teams
 
 Non‑financial, non‑regulated internal product playbook system for maintaining user experience standards and design, code, and writing guidelines used by all TBC agile product teams.
 
