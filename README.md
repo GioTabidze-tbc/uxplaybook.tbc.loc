@@ -2,9 +2,18 @@
 
 Non‑financial, non‑regulated internal product playbook system for maintaining user experience standards and design, code, and writing guidelines used by all TBC agile product teams.
 
+## POC Result
+PoC Result
+
+Installed the Docus project locally without issues.
+Replaced the default landing page with a custom version.
+Added three documentation components using ready-made Docus components.
+Each component renders correctly and follows the existing documentation patterns.
+Setup confirms fast bootstrap, easy theming, and low effort for adding structured docs.
+
 ## ✨ Features
 
-- 🎨 **Beautiful Design** - Clean, modern documentation theme
+- 🎨 **Clear Design** - Clean, modern documentation theme
 - 📱 **Responsive** - Mobile-first responsive design  
 - 🌙 **Dark Mode** - Built-in dark/light mode support
 - 🔍 **Search** - Full-text search functionality
